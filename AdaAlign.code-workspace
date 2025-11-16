@@ -1,9 +1,0 @@
-{
-	"folders": [
-		{
-			"uri": "vscode-remote://ssh-remote+fzw/data/sydong/SBIR/SAKE/Sherry"
-		}
-	],
-	"remoteAuthority": "ssh-remote+fzw",
-	"settings": {}
-}
