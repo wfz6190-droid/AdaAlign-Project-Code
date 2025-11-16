@@ -1,0 +1,220 @@
+wrist-watch
+pig
+alarm clock
+chair
+tablelamp
+nose
+trousers
+boomerang
+van
+sponge bob
+mouse (animal)
+book
+angel
+donut
+tire
+helicopter
+tomato
+skateboard
+cup
+dragon
+feather
+piano
+present
+flying saucer
+swan
+microphone
+bed
+calculator
+harp
+tent
+truck
+radio
+squirrel
+teddy-bear
+axe
+scorpion
+snail
+house
+cloud
+chandelier
+cactus
+sheep
+tv
+fork
+revolver
+hamburger
+pear
+trumpet
+pineapple
+bear (animal)
+sun
+comb
+purse
+rabbit
+submarine
+floor lamp
+computer-mouse
+ship
+seagull
+frog
+cigarette
+panda
+eye
+cannon
+standing bird
+camera
+rifle
+potted plant
+sea turtle
+hat
+cat
+keyboard
+mug
+syringe
+castle
+hammer
+palm tree
+bicycle
+bush
+helmet
+human-skeleton
+sailboat
+key
+saxophone
+pen
+scissors
+monkey
+hot-dog
+parking meter
+parrot
+door handle
+grenade
+snowman
+ear
+vase
+suv
+apple
+bathtub
+megaphone
+flying bird
+leaf
+backpack
+wheel
+cow
+mosquito
+ipod
+santa claus
+shovel
+person walking
+sword
+walkie talkie
+elephant
+socks
+couch
+screwdriver
+race car
+person sitting
+bee
+skyscraper
+traffic light
+pretzel
+pickup truck
+beer-mug
+door
+guitar
+baseball bat
+paper clip
+pumpkin
+mouth
+hand
+tennis-racket
+car (sedan)
+cell phone
+crab
+zebra
+motorbike
+pipe (for smoking)
+owl
+armchair
+tree
+loudspeaker
+octopus
+bulldozer
+giraffe
+kangaroo
+mailbox
+cake
+satellite
+head-phones
+head
+wine-bottle
+crane (machine)
+shark
+grapes
+rainbow
+mermaid
+bookshelf
+knife
+hedgehog
+fire hydrant
+barn
+face
+bowl
+eyeglasses
+carrot
+moon
+spider
+binoculars
+crocodile
+airplane
+ladder
+toothbrush
+toilet
+bench
+power outlet
+tooth
+teapot
+arm
+lightbulb
+umbrella
+snake
+speed-boat
+hourglass
+dog
+fish
+flashlight
+ice-cream-cone
+butterfly
+wheelbarrow
+skull
+dolphin
+mushroom
+blimp
+basket
+violin
+microscope
+train
+stapler
+flower with stem
+envelope
+camel
+diamond
+wineglass
+cabinet
+foot
+spoon
+tiger
+bell
+candle
+duck
+satellite dish
+crown
+strawberry
+rooster
+lion
+computer monitor
+lobster
+pigeon
+church
+ashtray
